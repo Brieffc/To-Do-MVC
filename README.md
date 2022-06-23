@@ -28,4 +28,4 @@ Create the project structure according to the MVC pattern.
 ## How to use
 
 ## 1 - When you access the home page
-https://github.com/Brieffc/To-Do-MVC/blob/main/images/home.png
+[https://github.com/Brieffc/To-Do-MVC/blob/main/images/home.png](https://github.com/Brieffc/To-Do-MVC/blob/main/images/home.png?raw=true)
